@@ -1,1 +1,7 @@
-# Day-22-Potentiometer
+# Day 22
+
+All instructions for the Raspberry Pi Rapheal Kit is on Sunfounders page.
+
+Potentiometer Instructions found at link below:
+
+https://docs.sunfounder.com/projects/raphael-kit/en/latest/python/2.1.7_potentiometer_python.html
